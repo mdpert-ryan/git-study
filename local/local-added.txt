@@ -1,4 +1,9 @@
 1:23 modified
 1:30 changed from remote
+<<<<<<< HEAD
 1:32 changed from remote on branch1 - changed by branch1
 1:44 added from remote by branch1
+=======
+1:32 changed from remote
+5:17 changed from github on main branch
+>>>>>>> 413e57c7a9880cf64f491dc772e44685302bb493
